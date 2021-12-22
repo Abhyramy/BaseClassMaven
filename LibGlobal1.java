@@ -167,11 +167,16 @@ public class LibGlobal1 {
 	//for checking purpose
 	private void checking() {
      System.out.println("Done");
+
+     System.out.println("Preethi Done");
      System.out.println("Abhy Done");
      //abhy conflicts
      
 		
-		
-	}
+		// for checking 2
+     }
 
+	private void cheki2() {
+System.out.println("done");
+	}
 }
