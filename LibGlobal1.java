@@ -163,5 +163,12 @@ public class LibGlobal1 {
 		js.executeScript("arguments[0].setAttribute('value','s')", e);
 
 	}
+	
+	//for checking purpose
+	private void checking() {
+     System.out.println("Done");
+		
+		
+	}
 
 }
