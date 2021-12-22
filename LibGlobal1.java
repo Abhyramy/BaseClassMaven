@@ -171,7 +171,10 @@ public class LibGlobal1 {
      System.out.println("Preethi Done");
      System.out.println("Abhy Done");
 		
-		
-	}
+		// for checking 2
+     }
 
+	private void cheki2() {
+System.out.println("done");
+	}
 }
