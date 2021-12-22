@@ -173,7 +173,10 @@ public class LibGlobal1 {
      //abhy conflicts
      
 		
-		
-	}
+		// for checking 2
+     }
 
+	private void cheki2() {
+System.out.println("done");
+	}
 }
